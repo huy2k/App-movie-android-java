@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "423093872424",
+    "firebase_url": "https://navigation-39fe2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "navigation-39fe2",
+    "storage_bucket": "navigation-39fe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423093872424:android:223f3b3b2900d81146921d",
+        "android_client_info": {
+          "package_name": "com.example.navigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423093872424-hoo8ccrl9qsdq146qni26u5b5tg83b1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4xTYpMRB6KWJFAOaXMcaqRRyL0Yy_n-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423093872424-hoo8ccrl9qsdq146qni26u5b5tg83b1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
